@@ -1,12 +1,12 @@
 # Laboratory Task: Professional Development Environment Setup & Collaborative Git Workflow
 
-**Institution:** Camarines Sur Polytechnic Colleges  
-**College:** College of Computer Studies (CCS)  
-**Program:** Bachelor of Science in Computer Science (BSCS)  
-**Course Code & Title:** CCCS 106: Application Development and Emerging Technologies  
-**Target Term & Week:** 1st Semester | Week 2  
-**Lab Duration:** 4 Hours (Hands-On Lab Session)  
-**Target Framework:** Python 3.10-3.12 & Flet SDK v0.86.5+ ([Official Docs](https://flet.dev/docs/))  
+**Institution:** Camarines Sur Polytechnic Colleges
+**College:** College of Computer Studies (CCS)
+**Program:** Bachelor of Science in Computer Science (BSCS)
+**Course Code & Title:** CCCS 106: Application Development and Emerging Technologies
+**Target Term & Week:** 1st Semester | Week 2
+**Lab Duration:** 4 Hours (Hands-On Lab Session)
+**Target Framework:** Python 3.10-3.12 & Flet SDK v0.86.5+ ([Official Docs](https://flet.dev/docs/))
 
 ---
 
@@ -422,7 +422,7 @@ In this phase, students collaborate in groups of three (Student 1, Student 2, an
 
 ```text
                   COLLABORATIVE 3-DEVELOPER BRANCH WORKFLOW
- 
+
   main:                  [Init Commit] ───● (Merge Dev 1) ───● (Merge Dev 2) ───● (Merge Dev 3)
                                │              ▲                   ▲                   ▲
                                │              │                   │                   │

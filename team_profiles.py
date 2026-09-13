@@ -45,7 +45,7 @@ def get_initial_team() -> List[TeamMember]:
             full_name="[Dev 1] Flores, Dean Victor", # example: "Maria Clara Santos"
             role="Lead Frontend UI Developer",
             specialization="Flet Reactive Widgets & Material 3 Layouts",
-            github_handle="@dev1-github",          # example: "@mariaclara-cspc"
+            github_handle="@deflores-hub",          # example: "@mariaclara-cspc"
             avatar_icon=ft.Icons.PALETTE,
             accent_color=ft.Colors.TEAL_700,
             photo_url="/dev1.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev1-github.png")

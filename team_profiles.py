@@ -73,7 +73,7 @@ def get_initial_team() -> List[TeamMember]:
             full_name="[Dev 3] Relorcasa, Carla Eloisa", # example: "Angelo Reyes"
             role="QA & Feature Engineer",
             specialization="Testing Diagnostics, Theme Engine & Controls",
-            github_handle="@dev3-github",          # example: "@areyes-cspc"
+            github_handle="@eliments",          # example: "@areyes-cspc"
             avatar_icon=ft.Icons.BUG_REPORT,
             accent_color=ft.Colors.INDIGO_700,
             photo_url="/dev3.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev3-github.png")
